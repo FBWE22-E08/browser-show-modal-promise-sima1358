@@ -1,7 +1,7 @@
 {
   "name": "browser-show-modal-promise",
   "version": "1.0.0",
-  "description": "",
+  "description": "**Preparation:**",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -31,5 +31,13 @@
   },
   "dependencies": {
     "sass": "^1.57.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FBWE22-E08/browser-show-modal-promise-sima1358.git"
+  },
+  "bugs": {
+    "url": "https://github.com/FBWE22-E08/browser-show-modal-promise-sima1358/issues"
+  },
+  "homepage": "https://github.com/FBWE22-E08/browser-show-modal-promise-sima1358#readme"
 }
